@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50668" started-at="2021-02-06T14:13:23Z" finished-at="2021-02-06T14:14:13Z">
+    <groups>
+    </groups>
+    <test name="TestOne" duration-ms="50668" started-at="2021-02-06T14:13:23Z" finished-at="2021-02-06T14:14:13Z">
+      <class name="packageOne.ClassTwo">
+        <test-method status="PASS" signature="methodTwoA()[pri:0, instance:packageOne.ClassTwo@4b6995df]" name="methodTwoA" duration-ms="8877" started-at="2021-02-06T19:43:41Z" finished-at="2021-02-06T19:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoA -->
+        <test-method status="PASS" signature="methodTwoB()[pri:0, instance:packageOne.ClassTwo@4b6995df]" name="methodTwoB" duration-ms="0" started-at="2021-02-06T19:43:50Z" finished-at="2021-02-06T19:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoB -->
+      </class> <!-- packageOne.ClassTwo -->
+      <class name="packageOne.ClassOne">
+        <test-method status="PASS" signature="methodOneA()[pri:0, instance:packageOne.ClassOne@71f2a7d5]" name="methodOneA" duration-ms="17954" started-at="2021-02-06T19:43:23Z" finished-at="2021-02-06T19:43:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOneA -->
+      </class> <!-- packageOne.ClassOne -->
+      <class name="packageOne.ClassFour">
+        <test-method status="PASS" signature="methodFourA()[pri:0, instance:packageOne.ClassFour@591f989e]" name="methodFourA" duration-ms="13579" started-at="2021-02-06T19:44:00Z" finished-at="2021-02-06T19:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodFourA -->
+      </class> <!-- packageOne.ClassFour -->
+      <class name="packageOne.ClassThree">
+        <test-method status="PASS" signature="methodThreeA()[pri:0, instance:packageOne.ClassThree@2fc14f68]" name="methodThreeA" duration-ms="10235" started-at="2021-02-06T19:43:50Z" finished-at="2021-02-06T19:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodThreeA -->
+      </class> <!-- packageOne.ClassThree -->
+    </test> <!-- TestOne -->
+  </suite> <!-- Suite -->
+</testng-results>
